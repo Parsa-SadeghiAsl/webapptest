@@ -4,7 +4,6 @@ import numpy as np
 from PIL import Image
 from transformers import SegformerFeatureExtractor, SegformerForSemanticSegmentation
 from PIL import Image
-import requests
 import torch
 
 # Set page title, icon, and layout
